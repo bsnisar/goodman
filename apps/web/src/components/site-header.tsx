@@ -57,7 +57,7 @@ export function SiteHeader() {
             </Button>
             <Button variant="ghost" asChild size="sm" className="hidden sm:flex">
               <a
-                href="https://github.com/silicondeck/shadcn-dashboard-landing-template"
+                href="#"
                 rel="noopener noreferrer"
                 target="_blank"
                 className="dark:text-foreground"
